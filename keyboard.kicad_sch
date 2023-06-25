@@ -2680,7 +2680,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000062e0cc2e)
     (property "Reference" "SW36" (id 0) (at 139.7 138.811 0))
-    (property "Value" "Tab ^" (id 1) (at 139.7 141.1224 0))
+    (property "Value" "= ^" (id 1) (at 139.7 141.1224 0))
     (property "Footprint" "e-tinkers:SW_PUSH_6mm_XKB_TC-1102-X-X-X" (id 2) (at 139.7 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )

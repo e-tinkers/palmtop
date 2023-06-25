@@ -496,7 +496,7 @@
       (reference "SW35") (unit 1) (value "0 ~") (footprint "e-tinkers:SW_PUSH_6mm_XKB_TC-1102-X-X-X")
     )
     (path "/00000000-0000-0000-0000-000062de327b/00000000-0000-0000-0000-000062e0cc2e"
-      (reference "SW36") (unit 1) (value "Tab ^") (footprint "e-tinkers:SW_PUSH_6mm_XKB_TC-1102-X-X-X")
+      (reference "SW36") (unit 1) (value "= ^") (footprint "e-tinkers:SW_PUSH_6mm_XKB_TC-1102-X-X-X")
     )
     (path "/00000000-0000-0000-0000-000062de327b/00000000-0000-0000-0000-000062e0cc6a"
       (reference "SW37") (unit 1) (value "Space") (footprint "e-tinkers:SW_PUSH_6mm_XKB_TC-1102-X-X-X")
