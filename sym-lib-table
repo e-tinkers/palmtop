@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "palmTop-rescue")(type "Legacy")(uri "${KIPRJMOD}/palmTop-rescue.lib")(options "")(descr ""))
+)
